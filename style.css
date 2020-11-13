@@ -1,0 +1,36 @@
+body{
+  background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 30px;
+    height: 40px;
+    width:300px;
+    font-family: 'Big Shoulders Inline Text', cursive;
+
+}
+
+.btn{
+  background-color: aqua;
+  color: black;
+  width: 500px;
+  font-size: 30px;
+  border-radius: 45px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Amatic SC', cursive;
+}
+
+#status,#images_detected,#button_br_home{
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  height: 40px;
+}
+
+canvas{
+  border: 10px solid black;
+  margin-top: 170px;
+  box-shadow: 10px 10px 10px grey;
+  border-radius: 10px;
+}
